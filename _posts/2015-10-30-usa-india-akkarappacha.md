@@ -4,9 +4,9 @@ title: അക്കരപ്പച്ച
 author: gini
 subtitle: 
 tags: 
-categories: [സമകാലീകം,ചിന്താവിഷയം,ആക്ഷേപം]
+categories: [കവിത പോലെ ചിലത്,ആക്ഷേപം]
 image: "assets/images/img-2020/usa-india-akkarappacha.jpg"
-show-avatar: false
+show-avatar: true
 ---
 
 അമേരിക്കയിലെ സായിപ്പ് 
