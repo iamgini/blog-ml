@@ -25,5 +25,6 @@ Thank you,
 Gini Gangadharan
 
 
+<br><br>
 #### Credits
-[Mediumish Jekyll Theme](https://www.wowthemes.net/mediumish-free-jekyll-template/) by WowThemes.net
+[Mundana Jekyll Theme](https://www.wowthemes.net/mundana-jekyll-theme/) by WowThemes.net

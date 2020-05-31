@@ -4,7 +4,7 @@ title: പ്രണയം (?)
 author: gini
 subtitle: 
 tags: []
-categories: [ചിന്താവിഷയം,സമകാലീകം]
+categories: [കവിത പോലെ ചിലത്,സമകാലീകം]
 image: "assets/images/img-2020/rose-and-love.jpg"
 show-avatar: true
 ---
