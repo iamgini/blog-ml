@@ -4,7 +4,7 @@ title: ആരോഗ്യമുള്ള ശുഭദിനം = ഇഡ്ഡല
 author: gini
 subtitle: 
 tags: 
-categories: [ഓർമ്മകൾ,ചിന്താവിഷയം]
+categories: [സമകാലീകം,ചിന്താവിഷയം,വിശേഷങ്ങള്‍]
 image: "assets/images/img-2020/idli-sambar.jpg"
 #bigimg: "/img/how-to-delete-a-pod-with-terminating-state-in-openshift-or-kubernetes-cluster.jpg"
 show-avatar: true
