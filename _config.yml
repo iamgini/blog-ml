@@ -1,13 +1,13 @@
 # Site
-name: 'i am gini'
-title: "i am gini"
-description: 'backpacker, foodie, techie'
+name: 'നിഴലുകള്‍ പറഞ്ഞത് ...'
+title: "നിഴലുകള്‍ പറഞ്ഞത് ..."
+description: 'ഗിനി ഗംഗാധരന്‍'
 logo: 'assets/images/logo-g-v1.png'
 favicon: 'assets/images/logo-g-v1.png'
 
 #url: "https://www.iamgini.com/"
 my_base_site: "https://www.iamgini.com"
-baseurl: '/sitev2'
+baseurl: '/blog-ml'
 # If you are building a GitHub project page then use these settings:
 # url: "https://www.iamgini.com/site2/"
 # baseurl: "/site2"
