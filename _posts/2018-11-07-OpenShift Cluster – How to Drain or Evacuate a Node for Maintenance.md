@@ -1,17 +1,17 @@
 ---
 layout: post
-title: OpenShift Cluster – How to Drain or Evacuate a Node for Maintenance
+title: ആരവങ്ങളില്ലാത്ത ലോകത്തേക്ക് ജോയ് പീറ്റര്‍ യാത്രയായി
 author: gini
-subtitle: OpenShift Notes for Cluster Admins
-tags: openshift, Kubernetes, docker
-image: "assets/images/openshift-cluster-how-to-drain-or-evacuate-a-node-for-maintenance.jpg"
-bigimg: "/img/openshift-cluster-how-to-drain-or-evacuate-a-node-for-maintenance.jpg"
-ext_url: https://www.techbeatly.com/2018/11/openshift-cluster-how-to-drain-or-evacuate-a-node-for-maintenance.html
-show-avatar: false
+subtitle: 
+tags: memories
+image: "assets/images/img-2020/joy-peter.jpg"
+#bigimg: "/img/openshift-cluster-how-to-drain-or-evacuate-a-node-for-maintenance.jpg"
+#ext_url: https://www.techbeatly.com/2018/11/openshift-cluster-how-to-drain-or-evacuate-a-node-for-maintenance.html
+show-avatar: true
 ---
 
-As we know OpenShift clusters are bundled with multiple compute nodes, master nodes, infra nodes etc, it’s not a big deal to manage node maintenance for OS patching kind of activities. But we need to ensure we have enough capacity on other nodes to balance the workload.
+പതിവ് പോലെ ജോയ് പീറ്ററിന്റെ മരണവാര്‍ത്തയും അറിഞ്ഞത് ഫെസ്ബൂക് പോസ്റ്റുകള്‍ വഴി തന്നെ. വാര്‍ത്ത സ്ഥിരീകരിക്കാന്‍ ഓണ്‍ലൈന്‍ പത്രങ്ങള്‍ തപ്പി; കാര്യമായി ഒന്നും കണ്ടില്ല. ഫെസ്ബുകില്‍ ആണെങ്കില്‍ ഒന്നും രണ്ടുമല്ല, നൂറുകണക്കിന് പോസ്റ്റുകള്‍. ഞെട്ടാനൊന്നും സമയം കിട്ടിയില്ല, രണ്ടു മൂന്നു മിനിറ്റ് കൊണ്ട് മനസ്സില്‍ ഒരു സിനിമാ ട്രെയിലര്‍ പോലെ “ജുംബലക്ക”യും, “ഫെയര്‍ ആന്‍ഡ്‌ ലവ്ലി”യും പ്രഭുദേവയും കാതലനും എ ആര്‍ റഹ്മാനും ഓടിമറഞ്ഞു; മനസ്സ് 90-കളിലെ ചില ഗാനമേളകളില്‍ ചുവടു വെച്ചു.
 
-When there is a maintenance work – eg: Kernel patching – we need to exercise this without impacting those pods and application running on cluster.
+ഇന്നലെ വൈകീട്ട് തലശ്ശേരി മാക്കൂട്ടം റയില്‍വേ ഗേറ്റിലാണ് ട്രെയിന്‍ തട്ടി മരിച്ച നിലയില്‍ ജോയ് പീറ്ററിന്റെ മൃതദേഹം കണ്ടെത്തിയതായി അറിഞ്ഞത്. കേട്ടറിവ് വച്ച് സുഹൃദ്സംഘങ്ങളിലെ ആവേശമായിരുന്ന ജോയ്, പിന്നീട് ന്യൂ മാഹിയിലെ ‘സാരഗ് ഓര്‍ക്കസ്ട്ര’യിലൂടെയാണ് പ്രൊഫഷണല്‍ ഗാനമേള വേദികളില്‍ എത്തുന്നത്‌. പിന്നീട് തമിഴ് ഗാനങ്ങളിലൂടെ, അസാധ്യമായ ആലാപനശൈലിയിലൂടെ ആരാധകരുടെ മനസ്സ് ജോയ് പീറ്റര്‍ കീഴടക്കി. പരിപാടിയുടെ പോസ്ററില്‍ ജോയ് പീറ്ററിന്റെ പടം വെച്ചാല്‍ മതി, പിന്നെ ഗാനമേള നടക്കുന്ന പറമ്പുകളില്‍ സൂചി കുത്താന്‍ ഇടം കിട്ടാത്ത സ്ഥിതിയായി. ഒരു പക്ഷെ പ്രഭുദേവയെയും എ ആര്‍ റഹ്മാനെയും അറിയുന്നതിന് മുന്നേ, മലയാളികള്‍ അവരുടെ പാട്ടുകളെ നെഞ്ചിലേറ്റാന്‍ കാരണം ജോയ് പീറ്റര്‍ തന്നെയായിരിക്കും.
 
-**[See Full Article](https://www.techbeatly.com/2018/11/openshift-cluster-how-to-drain-or-evacuate-a-node-for-maintenance.html/)**
+സോഷ്യല്‍മീഡിയ എന്നൊരു സങ്കല്പം പോലും ഇല്ലാത്ത കാലത്ത്, ജോയ് പീറ്ററിന്റെ പാട്ടുകള്‍ VHS കാസറ്റുകളിലാക്കി സൂക്ഷിച്ചവരെ ഓര്‍ക്കുന്നു.
