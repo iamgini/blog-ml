@@ -3,7 +3,7 @@ layout: post
 title: ടാര്‍മാപിനി
 author: gini
 subtitle: 
-tags: 
+tags: [sticky]
 categories: [ആക്ഷേപം,വിശേഷങ്ങള്‍,ചില കഥകള്‍]
 image: "assets/images/img-2020/road-digging.jpg"
 show-avatar: true
