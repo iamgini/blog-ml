@@ -4,7 +4,7 @@ title: കാലത്തിനു തെറ്റിയ കണക്കുക�
 author: gini
 subtitle: 
 tags: memories
-categories: [ഓർമ്മകൾ,ചിന്താവിഷയം]
+categories: [ഓർമ്മകൾ]
 image: "assets/images/img-2020/memory-of-shajimash.jpg"
 show-avatar: true
 ---
