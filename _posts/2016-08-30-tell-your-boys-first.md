@@ -4,6 +4,7 @@ title: ഉപദേശം ആണ്‍പിള്ളേരില്‍ നി�
 author: gini
 subtitle: 
 tags: 
+categories: [ആക്ഷേപം,ചിന്താവിഷയം]
 image: "assets/images/img-2020/StartWithTheBoys.jpg"
 bigimg: "/img/how-to-fix-a-failed-pv-in-openshift-cluster.jpg"
 show-avatar: true
