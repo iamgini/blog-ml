@@ -5,7 +5,7 @@ author: gini
 subtitle: 
 tags: []
 categories: [ചില കഥകള്‍]
-image: "assets/images/img-2020/tintumon-issue.jpeg"
+image: "assets/images/img-2020/tintumon-issue.jpg"
 show-avatar: true
 ---
 

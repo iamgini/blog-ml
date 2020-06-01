@@ -4,7 +4,7 @@ title: ചില 'മുടി'ഞ്ഞ ചിന്തകള്‍
 author: gini
 subtitle: 
 tags: []
-categories: [കവിത പോലെ ചിലത്]
+categories: [ചില കഥകള്‍]
 image: "assets/images/img-2020/hair-cutting.jpeg"
 show-avatar: true
 ---
