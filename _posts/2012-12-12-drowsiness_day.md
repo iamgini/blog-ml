@@ -3,7 +3,7 @@ layout: post
 title: ഉറക്കംതൂങ്ങികളെ ഇതിലേ ഇതിലേ ...
 author: gini
 subtitle: 
-tags: 
+tags: [featured]
 categories: [സമകാലീകം,ചിന്താവിഷയം,ആക്ഷേപം]
 image: "assets/images/img-2020/drowsiness_day.jpg"
 show-avatar: true
