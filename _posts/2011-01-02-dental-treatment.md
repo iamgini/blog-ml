@@ -3,7 +3,7 @@ layout: post
 title: ദന്തസൗന്ദര്യത്തിന്റെ നാള്‍വഴികള്‍
 author: gini
 subtitle: 
-tags: []
+tags: [featured]
 categories: [ചില കഥകള്‍,സമകാലീകം]
 image: "assets/images/img-2020/dental-treatment.jpeg"
 show-avatar: true

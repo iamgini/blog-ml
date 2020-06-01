@@ -3,7 +3,7 @@ layout: post
 title: സദുവിന്റെ ഔഷധക്കൂട്ട്
 author: gini
 subtitle: 
-tags: []
+tags: [featured]
 categories: [ആക്ഷേപം,ചില കഥകള്‍]
 image: "assets/images/img-2020/sadu-using-face-cream.jpg"
 show-avatar: true

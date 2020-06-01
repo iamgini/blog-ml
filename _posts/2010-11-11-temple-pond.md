@@ -3,7 +3,7 @@ layout: post
 title: കുളക്കാക്കകളും നെറ്റിപ്പൊട്ടന്‍മാരും
 author: gini
 subtitle: 
-tags: []
+tags: [featured]
 categories: [ചില കഥകള്‍]
 image: "assets/images/img-2020/temple-pond.jpg"
 show-avatar: true

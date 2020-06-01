@@ -3,7 +3,7 @@ layout: post
 title: ഇതൊരു സൈബര്‍ രോഗമാണോ ഡോക്ടര്‍ ?
 author: gini
 subtitle: 
-tags: 
+tags: [featured]
 categories: [സമകാലീകം,ചിന്താവിഷയം,ആക്ഷേപം]
 image: "assets/images/img-2020/cyberdrome.jpg"
 show-avatar: true
