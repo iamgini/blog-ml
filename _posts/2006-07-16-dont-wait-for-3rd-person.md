@@ -4,12 +4,10 @@ title: മൂന്നാമനെ കാത്തിരിക്കരുത്
 author: gini
 subtitle: 
 tags: []
-categories: [ചില കഥകള്‍]
+categories: [കവിത പോലെ ചിലത്]
 #image: "assets/images/img-2020/Mosquito-story.jpg"
 show-avatar: true
 ---
-
-(16th July 2006) 
 
 മുറിഞ്ഞു വീണ ഹൃദയം തുന്നിചേര്‍ക്കാന്‍
 

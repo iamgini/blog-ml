@@ -5,7 +5,7 @@ author: gini
 subtitle: 
 tags: []
 categories: [ചെറുകഥ,ചില കഥകള്‍]
-image: "assets/images/img-2020/boy-with-basket.jpeg"
+image: "assets/images/img-2020/boy-with-basket.jpg"
 show-avatar: true
 ---
 

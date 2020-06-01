@@ -5,7 +5,7 @@ author: gini
 subtitle: 
 tags: []
 categories: [വിശേഷങ്ങള്‍,സമകാലീകം]
-image: "assets/images/img-2020/kerala-election.jpg"
+#image: "assets/images/img-2020/kerala-election.jpg"
 show-avatar: true
 ---
 
