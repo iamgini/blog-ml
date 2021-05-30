@@ -1,11 +1,11 @@
 ---
 layout: post
-title: കാലത്തിനു തെറ്റിയ കണക്കുക്കൂട്ടൽ
+title: ഫേസ്ബുക് മുഴുവൻ ഇപ്പൊ കുമ്പിടികളാണ്.. ! 
 author: gini
 subtitle: 
 tags: memories
-categories: [ഓർമ്മകൾ]
-image: "assets/images/img-2020/memory-of-shajimash.jpg"
+categories: [SocialMedia]
+image: "assets/images/img-2021/pexels-pixabay-267350-facebook.jpg"
 show-avatar: true
 ---
 
